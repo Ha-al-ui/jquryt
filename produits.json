@@ -1,0 +1,166 @@
+[
+    {
+
+        "id": "R9567340IT6",
+        "Brands_Name":"Hugo Boss",
+        "Price":"55,99",
+        "A_Category":" Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Hugo Boss Store",
+            "adress" : "C. Martínez Catena, 9, 29640 Fuengirola, Málaga, Spain"}
+          
+         },
+           
+                        
+                        
+      
+   
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Lacoste",
+        "Price":"61,95",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Lacoste Store",
+            "adress" : "Viale Guglielmo Marconi, 68, 55049 Viareggio LU, Italy"}
+          
+            
+             
+                     }
+    
+    ,
+    
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Dolce & Gabbana",
+        "Price":"49,80",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Dolce & Gabbana Store",
+            "adress" : "Bvd Abdellah Ben Yassine Casablanca Casa F Local 17, Pueblo Marinero de, 29660 Riveira, Málaga, Spain"}
+          
+            
+             
+                     }
+    
+    ,
+    
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Puma",
+        "Price":"42,99",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "PUMA Outlet Romans",
+            "adress" : "60 Av. Gambetta, 26100 Romans-sur-Isère, France"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Levi's",
+        "Price":"30,85",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["America, Europe, Asia"],
+        "A_supplier":
+            {"raisonSocial" : "Levi's Outlet Store",
+            "adress" : "1424 AL-9 STE 10, Lake George, NY 12845, United States"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Calvin Klein",
+        "Price":"54,01",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Calvin Klein Outlet",
+            "adress" : "Sanayi Mahallesi, D:8, 41040 İzmit/Kocaeli, Turkey"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Nike",
+        "Price":"50,62",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Nike Factory Store",
+            "adress" : "455 Trolley Line Blvd Ste 390, Mashantucket, CT 06338, United States"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Adidas",
+        "Price":"36,68",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["All a round a world"],
+        "A_supplier":
+            {"raisonSocial" : "Adidas Store",
+            "adress" : "Calle de Goya, 76, 28009 Madrid, Spain"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"G-STAR RAW",
+        "Price":"30,49",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["America, Europe"],
+        "A_supplier":
+            {"raisonSocial" : "G-Star RAW Store",
+            "adress" : "66482 Zweibrücken, Germany"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Superdry",
+        "Price":"83,50",
+        "A_Category":"Clothes for Men, Women",
+        "Availability":["America, Europe"],
+        "A_supplier":
+            {"raisonSocial" : "Superdry Nevada",
+            "adress" : " Centro Comercial Parque Nevada, 18100, Granada, Spain"}
+          
+            
+             
+                     }
+    
+  
+]
+
